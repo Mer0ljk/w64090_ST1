@@ -1,0 +1,16 @@
+D:\GitHUBDesctop\w64090_ST1\Lab5\Lab5\bin\Debug\net5.0\Lab5.exe
+D:\GitHUBDesctop\w64090_ST1\Lab5\Lab5\bin\Debug\net5.0\Lab5.deps.json
+D:\GitHUBDesctop\w64090_ST1\Lab5\Lab5\bin\Debug\net5.0\Lab5.runtimeconfig.json
+D:\GitHUBDesctop\w64090_ST1\Lab5\Lab5\bin\Debug\net5.0\Lab5.runtimeconfig.dev.json
+D:\GitHUBDesctop\w64090_ST1\Lab5\Lab5\bin\Debug\net5.0\Lab5.dll
+D:\GitHUBDesctop\w64090_ST1\Lab5\Lab5\bin\Debug\net5.0\ref\Lab5.dll
+D:\GitHUBDesctop\w64090_ST1\Lab5\Lab5\bin\Debug\net5.0\Lab5.pdb
+D:\GitHUBDesctop\w64090_ST1\Lab5\Lab5\obj\Debug\net5.0\Lab5.csproj.AssemblyReference.cache
+D:\GitHUBDesctop\w64090_ST1\Lab5\Lab5\obj\Debug\net5.0\Lab5.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHUBDesctop\w64090_ST1\Lab5\Lab5\obj\Debug\net5.0\Lab5.AssemblyInfoInputs.cache
+D:\GitHUBDesctop\w64090_ST1\Lab5\Lab5\obj\Debug\net5.0\Lab5.AssemblyInfo.cs
+D:\GitHUBDesctop\w64090_ST1\Lab5\Lab5\obj\Debug\net5.0\Lab5.csproj.CoreCompileInputs.cache
+D:\GitHUBDesctop\w64090_ST1\Lab5\Lab5\obj\Debug\net5.0\Lab5.dll
+D:\GitHUBDesctop\w64090_ST1\Lab5\Lab5\obj\Debug\net5.0\ref\Lab5.dll
+D:\GitHUBDesctop\w64090_ST1\Lab5\Lab5\obj\Debug\net5.0\Lab5.pdb
+D:\GitHUBDesctop\w64090_ST1\Lab5\Lab5\obj\Debug\net5.0\Lab5.genruntimeconfig.cache
